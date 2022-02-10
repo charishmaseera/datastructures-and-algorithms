@@ -1,16 +1,17 @@
 # datastructures-and-algorithms
 
-DATA STRUCTURES :  
-arrays , 
-stacks ,
-queues ,
-linked lists ,
-trees ,
-graphs ,
-hash tables .
+### Data Structures - 
+1. Arrays
+2. Graphs
+3. Hashtables (dictionary)
+4. Linked Lists
+5. Stack and Queues
 
-ALGORITHMS : 
-sorting ,
-dynamic programming ,
-BFS+DFS(searching) ,
-recursion.
+### Algorithms - 
+1. Dynamic Programming
+2. Recursion
+3. Sorting
+4. Traversals
+      - BFS
+      - DFS
+
